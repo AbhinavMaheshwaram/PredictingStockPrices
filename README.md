@@ -18,7 +18,7 @@ The primary goal of this project is to predict future stock prices based on hist
 
 ## Data Collection
 - Data source: Yahoo Finance
-- Stock: Google (GOOG)
+- Stock: Google (GOOG) by default
 - Timeframe: January 19, 2014, to December 30, 2023
 
 ## Preprocessing
